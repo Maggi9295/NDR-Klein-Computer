@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name nkc)(type Legacy)(uri C:/Users/Magnus/Documents/KiCad/NKC/nkc.lib)(options "")(descr ""))
-  (lib (name roa64-karte-rescue)(type Legacy)(uri ${KIPRJMOD}/roa64-karte-rescue.lib)(options "")(descr ""))
-)
