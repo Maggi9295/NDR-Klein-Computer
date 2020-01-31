@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name nkc)(type Legacy)(uri C:/Users/Magnus/Documents/KiCad/NKC/nkc.lib)(options "")(descr ""))
+  (lib (name bankboot-karte-rescue)(type Legacy)(uri ${KIPRJMOD}/bankboot-karte-rescue.lib)(options "")(descr ""))
+)
